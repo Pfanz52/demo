@@ -1,0 +1,14 @@
+E:\enum\bin\Debug\net7.0\enum.exe
+E:\enum\bin\Debug\net7.0\enum.deps.json
+E:\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+E:\enum\bin\Debug\net7.0\enum.dll
+E:\enum\bin\Debug\net7.0\enum.pdb
+E:\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+E:\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+E:\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+E:\enum\obj\Debug\net7.0\enum.dll
+E:\enum\obj\Debug\net7.0\refint\enum.dll
+E:\enum\obj\Debug\net7.0\enum.pdb
+E:\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+E:\enum\obj\Debug\net7.0\ref\enum.dll
